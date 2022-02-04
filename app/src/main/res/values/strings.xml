@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="pushkar">Pushkar</string>
+    <string name="note">Enter a note</string>
+    <string name="submit">Submit</string>
+</resources>
